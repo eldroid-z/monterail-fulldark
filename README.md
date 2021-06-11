@@ -44,11 +44,11 @@ Yes. Currently the theme has been tested only on Windows 10 and openSUSE. You ar
 * With which versions of Thunderbird can I use this theme?
 
 Version **[1.1.6](https://github.com/conema/monterail-fulldark/releases/tag/1.1.6)** works with Thunderbird **<=60.x**. Version **[2.1](https://github.com/conema/monterail-fulldark/releases/tag/2.1)** works only with Thunderbird **68**. The last versions works with Thunderbird **78**.
-
-
-
-
-
+## Build xpi
+ - open the addon root directory
+ - select all files to include in the addon
+ - compress to .zip file
+ - rename the file to .xpi
 ## Credits
 This addon is based on [Monterail by Paenglab](https://addons.thunderbird.net/en-US/thunderbird/addon/monterail/), source code is included.
 
