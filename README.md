@@ -18,6 +18,9 @@ The theme can be directly downloaded from the Thunderbird Add-on market, the old
 
 
 ## Screenshots
+### New
+
+### Current Upstream
 ![screen1](https://user-images.githubusercontent.com/12801153/44424482-837e5f80-a589-11e8-9410-d8d3a538d755.jpg)
 ![screen2](https://user-images.githubusercontent.com/12801153/44424481-837e5f80-a589-11e8-94bc-3a45bd658151.jpg)
 
